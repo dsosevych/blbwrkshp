@@ -6,7 +6,7 @@ Resource    ../../resources/asserts.robot
 
 
 *** Variables ***
-${URL}                              URL=https://www.accuweather.com
+${URL}                              URL=https://www.amazon.de/
 
 ${ERR_COUNT}                        0
 ${WARN_COUNT}                       0
