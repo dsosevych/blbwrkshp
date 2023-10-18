@@ -6,7 +6,7 @@ Resource    ../../resources/asserts.robot
 
 
 *** Variables ***
-${URL}                              %{URL=https://www.accuweather.com/en/de/berlin/10178/weather-forecast/178087}
+${URL}                              URL=https://www.accuweather.com
 
 ${ERR_COUNT}                        0
 ${WARN_COUNT}                       0
